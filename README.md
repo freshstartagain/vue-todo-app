@@ -1,4 +1,7 @@
-# todo-app
+# todo-app 
+Created using vue.js.
+
+![](https://imgur.com/loYHWH2)
 
 ## Project setup
 ```
